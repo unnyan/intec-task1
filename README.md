@@ -41,6 +41,7 @@
         th, td {
             padding: 10px;
             text-align: center;
+            width: 16.66%;
         }
         .input-section {
             margin-top: 40px;
